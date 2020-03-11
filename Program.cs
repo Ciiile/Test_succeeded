@@ -22,7 +22,7 @@ namespace iPole_01
 
 
             Console.WriteLine(person.Name);
-            Console.WriteLine(person.Age);
+           
         }
     }
 }
