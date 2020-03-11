@@ -1,6 +1,10 @@
 ﻿using System;
 
+<<<<<<< Updated upstream
 namespace iPole_01
+=======
+namespace iPole_01 // do u see this. Yes 
+>>>>>>> Stashed changes
 {
 
     class Person
@@ -26,3 +30,8 @@ namespace iPole_01
         }
     }
 }
+<<<<<<< Updated upstream
+=======
+
+// hello
+>>>>>>> Stashed changes
