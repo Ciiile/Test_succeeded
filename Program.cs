@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace iPole_01
+namespace iPole_01 // do u see this 
 {
 
     class Person
