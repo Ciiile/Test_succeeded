@@ -18,6 +18,7 @@ namespace iPole_01 // do u see this. Yes
             Age = age;
         }
     }
+    //I can play this game too
     class Program
     {
         static void Main(string[] args)
