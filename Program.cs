@@ -27,6 +27,7 @@ namespace iPole_01 // do u see this. Yes
 
 
             Console.WriteLine(person.Name);
+            Console.WriteLine(person.Age);
            
         }
     }
